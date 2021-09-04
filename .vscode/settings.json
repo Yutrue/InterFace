@@ -1,0 +1,10 @@
+// {
+//     "python.autoComplete.addBrackets": true,
+//     "typescript.tsdk": ""
+// }
+{
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "python.linting.flake8Args":[ "--max-line-length=1000", "--extend-ignore=E231,E265,E401,F401,E262,,F841,E203,E117,E302,E402,E225,E228,W291,E305,W293,W191,W292,W391" ],
+    "python.linting.pylintEnabled": false
+}
